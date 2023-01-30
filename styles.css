@@ -1085,7 +1085,7 @@ tr {
     height: 50%;
   }
   .brend-main-text h3 {
-    margin: 8px;
+    margin: 14px;
   }
 
   .companys {
@@ -1094,8 +1094,8 @@ tr {
     margin-bottom: 50px;
   }
   .company p {
-    font-size: 12px;
-    line-height: 14px;
+    font-size: 8px;
+    line-height: 10px;
   }
   .company img {
     width: 50%;
