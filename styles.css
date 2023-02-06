@@ -964,9 +964,11 @@ tr {
   }
 
   .content-info p {
-    font-size: 20px;
-    line-height: 22px;
+    font-size: 18px;
+    line-height: 20px;
     margin-bottom: 35px;
+    margin-right: 20px;
+    margin-left: 20px;
   }
 
   .content-ifo-quality {
@@ -1075,14 +1077,13 @@ tr {
   }
 
   .brend-main-text {
-    font-size: 16px;
-    line-height: 18px;
+    font-size: 10px;
+    line-height: 14px;
     height: auto;
     width: 50%;
   }
   .brend-main-img {
     width: 50%;
-    height: 50%;
   }
   .brend-main-text h3 {
     margin: 14px;
